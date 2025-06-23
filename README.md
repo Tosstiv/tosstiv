@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://github.com/Tosstiv/tosstiv/blob/main/assets/айотто3.gif" width="25%" align="right" />
+<div align="left">
+<img src="https://github.com/Tosstiv/tosstiv/blob/main/assets/айотто3.gif" width="50%" align="right" />
 
 <br><br>
 <pre>
@@ -11,7 +11,7 @@
     🐸 Memes
 </pre>
 <br><br>
-<img src="https://github.com/Tosstiv/tosstiv/blob/main/assets/new_cat.gif" height="40" />
+<img src="https://github.com/Tosstiv/tosstiv/blob/main/assets/new_cat.gif" />
 <br><br><br>
 
 
